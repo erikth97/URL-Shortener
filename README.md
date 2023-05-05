@@ -2,6 +2,12 @@
 
 This project is a URL shortener built using PHP, MySQL, and JavaScript, along with HTML and CSS for the front-end design. The purpose of this application is to transform long URLs into short links that are easier to manage and share.
 
+![image](https://user-images.githubusercontent.com/94486146/236559816-9dfd63ee-be08-4262-a656-1a2c1d294361.png)
+![image](https://user-images.githubusercontent.com/94486146/236559924-883962c8-a05b-4864-acc9-fc43bb85db5c.png)
+![image](https://user-images.githubusercontent.com/94486146/236559967-a835cc88-1018-4905-89ad-ac7b75b34826.png)
+![image](https://user-images.githubusercontent.com/94486146/236560007-ec63fed4-41ea-43b1-9335-842ec3846d3a.png)
+
+
 ## Features
 
 The URL shortener website has the following features:
